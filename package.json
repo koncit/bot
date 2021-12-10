@@ -1,7 +1,7 @@
 {
-  "name": "dcode-denpa",
+  "name": "koncit",
   "version": "2.0.0",
-  "description": "bitch-boot",
+  "description": "bot",
   "main": "node index",
   "directories": {
     "lib": "lib"
@@ -55,7 +55,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dcode-denpa/bitch-boot.git"
+    "url": "git+https://github.com/koncit/bot.git"
   },
   "bugs": {
     "url": "https://github.com/dcode-denpa/bitch-boot/issues"
